@@ -19,3 +19,5 @@ Como um dos focos deste challenge era a interação com o usuário, decidi utili
 </p>
 
 ##
+
+<span>&#169;</span> Dedev - 2022 
